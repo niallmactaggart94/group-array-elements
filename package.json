@@ -1,7 +1,7 @@
 {
   "name": "twig-assessment",
   "version": "1.0.0",
-  "description": "Baseline project for node",
+  "description": "Takes an array of length >= 0, and a positive integer N, and will return the contents of the array divided into N equally sized arrays.",
   "main": "app/index.js",
   "scripts": {
     "start": "node app/index.js",
